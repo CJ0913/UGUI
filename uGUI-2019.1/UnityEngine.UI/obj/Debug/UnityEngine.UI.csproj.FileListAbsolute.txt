@@ -1,0 +1,8 @@
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\bin\Debug\UnityEngine.UI.dll
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\bin\Debug\UnityEngine.UI.pdb
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\bin\Debug\UnityEngine.dll
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\obj\Debug\UnityEngine.UI.csproj.AssemblyReference.cache
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\obj\Debug\UnityEngine.UI.csproj.CoreCompileInputs.cache
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\obj\Debug\UnityEngine.UI.csproj.CopyComplete
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\obj\Debug\UnityEngine.UI.dll
+E:\Learning\UGUI源码\uGUI-2019.1\UnityEngine.UI\obj\Debug\UnityEngine.UI.pdb
